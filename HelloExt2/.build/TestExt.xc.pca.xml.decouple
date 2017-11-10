@@ -1,0 +1,17 @@
+<preCompilationAnalysis file="../TestExt.xc">
+<fDef name="goodbye" global="true" noreturn="false" doNotSpecialize="false" numParams="0"/>
+<fCall name="printf" global="true" numArgs="1">
+  <arg num="0">
+    <values>
+      <value type="unknown"/>
+    </values>
+  </arg>
+</fCall>
+<fCall name="hello" global="true" numArgs="1">
+  <arg num="0">
+    <values>
+      <value type="intval"><intval isSigned="true" val="600"/></value>
+    </values>
+  </arg>
+</fCall>
+</preCompilationAnalysis>

@@ -1,0 +1,2 @@
+TestExt.o: ../TestExt.xc
+
