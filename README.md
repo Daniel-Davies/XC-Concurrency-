@@ -8,4 +8,4 @@ XC is a programming language for real-time embedded parallel processors, targete
 
 # Running XC
 
-I used free software from XMOS, XTimeComposer. Download (here)[https://www.xmos.com/software/tools/]
+I used free software from XMOS, XTimeComposer. Download [here](https://www.xmos.com/software/tools/)
